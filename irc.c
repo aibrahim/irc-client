@@ -2,8 +2,8 @@
 #include<libc.h>
 
 #define TERM_NLINE "\r\n"
-//check it in git
-
+/*check it in git
+*/
 void
 main(void)
 {
